@@ -1,2 +1,2 @@
 # Hazumi_Mod_Collection
-A collection of functional mods for Hazumi and the Pregnation
+Soon to be a collection of all the mods I can find for Hazumi, also includes my decensor mod
